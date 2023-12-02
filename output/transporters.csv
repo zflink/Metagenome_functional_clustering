@@ -1,0 +1,149 @@
+,0,1,2,3,4,cluster
+105,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],"K02511  hpaX; MFS transporter, ACS family, 4-hydroxyphenylacetate permease",Cluster_0
+107,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],"K03288  citA, tcuC; MFS transporter, MHS family, citrate/tricarballylate:H+ symporter",Cluster_0
+108,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],"K03290  nanT; MFS transporter, SHS family, sialic acid transporter",Cluster_0
+109,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],"K03291  MFS.SET; MFS transporter, SET family, sugar efflux transporter",Cluster_0
+116,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],"K03445  nepI; MFS transporter, DHA1 family, purine ribonucleoside efflux pump",Cluster_0
+123,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],K03756  potE; putrescine:ornithine antiporter,Cluster_0
+124,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],K03759  adiC; arginine:agmatine antiporter,Cluster_0
+125,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],"K03761  kgtP; MFS transporter, MHS family, alpha-ketoglutarate permease",Cluster_0
+205,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],"K05557  actVA1; MFS transporter, DHA2 family, integral membrane protein",Cluster_0
+218,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],"K05819  mhpT; MFS transporter, AAHS family, 3-hydroxyphenylpropionic acid transporter",Cluster_0
+220,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],K05881  dhaM; phosphoenolpyruvate---glycerone phosphotransferase subunit DhaM [EC:2.7.1.121],Cluster_0
+232,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],"K06609  iolT; MFS transporter, SP family, major inositol transporter",Cluster_0
+233,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],"K06610  iolF; MFS transporter, SP family, inositol transporter",Cluster_0
+241,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],K07224  efeO; iron uptake system component EfeO,Cluster_0
+243,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],"K07241  hoxN, nixA; nickel/cobalt transporter (NiCoT) family protein",Cluster_0
+244,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],K07279  yfaL; autotransporter family porin,Cluster_0
+264,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],"K07785  nrsD, nreB; MFS transporter, NRE family, putaive nickel resistance protein",Cluster_0
+266,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],K07788  mdtB; multidrug efflux pump,Cluster_0
+268,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],K07789  mdtC; multidrug efflux pump,Cluster_0
+272,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],"K08166  mmr; MFS transporter, DHA2 family, methylenomycin A resistance protein",Cluster_0
+273,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],"K08167  smvA, qacA, lfrA; MFS transporter, DHA2 family, multidrug resistance protein",Cluster_0
+275,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],"K08169  yebQ; MFS transporter, DHA2 family, multidrug resistance protein",Cluster_0
+276,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],"K08172  shiA; MFS transporter, MHS family, shikimate and dehydroshikimate transport protein",Cluster_0
+277,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],"K08173  ydfJ; MFS transporter, MHS family, metabolite:H+ symporter",Cluster_0
+278,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],"K08178  JEN; MFS transporter, SHS family, lactate transporter",Cluster_0
+279,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],"K08194  dgoT; MFS transporter, ACS family, D-galactonate transporter",Cluster_0
+280,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],"K08195  pcaK; MFS transporter, AAHS family, 4-hydroxybenzoate transporter",Cluster_0
+281,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],"K08196  mucK; MFS transporter, AAHS family, cis,cis-muconate transporter",Cluster_0
+282,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],"K08225  entS; MFS transporter, ENTS family, enterobactin (siderophore) exporter",Cluster_0
+286,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],"K08368  yaaU; MFS transporter, putative metabolite transport protein",Cluster_0
+287,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],"K08369  ydjE; MFS transporter, putative metabolite:H+ symporter",Cluster_0
+298,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],K08970  rcnA; nickel/cobalt transporter (NicO) family protein,Cluster_0
+307,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],K09477  citT; citrate:succinate antiporter,Cluster_0
+313,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],K09873  TIP; aquaporin TIP,Cluster_0
+314,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],K09874  NIP; aquaporin NIP,Cluster_0
+323,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],K10005  gluB; glutamate transport system substrate-binding protein,Cluster_0
+325,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],K10006  gluC; glutamate transport system permease protein,Cluster_0
+327,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],K10007  gluD; glutamate transport system permease protein,Cluster_0
+329,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],K10008  gluA; glutamate transport system ATP-binding protein [EC:7.4.2.1],Cluster_0
+332,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],K10240  cebE; cellobiose transport system substrate-binding protein,Cluster_0
+352,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],K11079  attA2; mannopine transport system permease protein,Cluster_0
+354,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],K11080  attA1; mannopine transport system ATP-binding protein,Cluster_0
+356,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],K11081  phnS; 2-aminoethylphosphonate transport system substrate-binding protein,Cluster_0
+358,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],K11084  phnT; 2-aminoethylphosphonate transport system ATP-binding protein,Cluster_0
+359,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],K11106  ttdT; L-tartrate/succinate antiporter,Cluster_0
+382,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],K11735  gabP; GABA permease,Cluster_0
+383,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],K11737  cycA; D-serine/D-alanine/glycine transporter,Cluster_0
+384,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],K11738  ansP; L-asparagine permease,Cluster_0
+385,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],K11746  kefF; glutathione-regulated potassium-efflux system ancillary protein KefF,Cluster_0
+434,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],"K13021  ttuB; MFS transporter, ACS family, tartrate transporter",Cluster_0
+467,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],K13931  mdcC; malonate decarboxylase delta subunit,Cluster_0
+472,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],K13936  mdcF; malonate transporter and related proteins,Cluster_0
+500,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],"K14387  SLC5A7, CHT1; solute carrier family 5 (high affinity choline transporter), member 7",Cluster_0
+540,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],K15547  mdtO; multidrug resistance protein MdtO,Cluster_0
+541,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],"K15549  mdtN; membrane fusion protein, multidrug efflux system",Cluster_0
+542,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],"K15550  mdtP; outer membrane protein, multidrug efflux system",Cluster_0
+588,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],K16079  omp31; outer membrane immunogenic protein,Cluster_0
+589,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],K16080  mnoP; high affinity Mn2+ porin,Cluster_0
+602,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],K16301  efeB; deferrochelatase/peroxidase EfeB [EC:1.11.1.-],Cluster_0
+604,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],K16327  K16327; putative LysE/RhtB family amino acid efflux pump,Cluster_0
+635,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],"K16554  exoP, vpsO; polysaccharide biosynthesis transport protein [EC:2.7.10.3]",Cluster_0
+658,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],K17208  ibpA; inositol transport system substrate-binding protein,Cluster_0
+660,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],K17210  iatA; inositol transport system ATP-binding protein,Cluster_0
+665,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],"K17329  dasA; N,N'-diacetylchitobiose transport system substrate-binding protein",Cluster_0
+667,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],"K17331  dasC; N,N'-diacetylchitobiose transport system permease protein",Cluster_0
+682,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],"K18070  pht1, ophD; MFS transporter, ACS family, phthalate transporter",Cluster_0
+690,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],"K18215  tetV; MFS transporter, DHA3 family, tetracycline resistance protein",Cluster_0
+699,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],K18232  oleC4; oleandomycin transport system ATP-binding protein,Cluster_0
+702,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],K18233  oleC5; oleandomycin transport system permease protein,Cluster_0
+712,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],K18299  mexF; multidrug efflux pump,Cluster_0
+714,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],"K18300  oprN; outer membrane protein, multidrug efflux system",Cluster_0
+717,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],"K18306  mexH; membrane fusion protein, multidrug efflux system",Cluster_0
+719,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],K18307  mexI; multidrug efflux pump,Cluster_0
+737,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],K18481  mas; Mce-associated membrane protein,Cluster_0
+755,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],"K18901  bpeE; membrane fusion protein, multidrug efflux system",Cluster_0
+757,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],K18902  bpeF; multidrug efflux pump,Cluster_0
+788,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],K19585  oqxB; multidrug efflux pump,Cluster_0
+789,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],"K19594  gesB, mexQ; gold/copper resistance efflux pump",Cluster_0
+795,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],K19791  FET3_5; iron transport multicopper oxidase,Cluster_0
+396,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],K02781  srlB; glucitol/sorbitol PTS system EIIA component [EC:2.7.1.198],Cluster_1
+399,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],K02783  srlA; glucitol/sorbitol PTS system EIIC component,Cluster_1
+651,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],"K03314  nhaB; Na+:H+ antiporter, NhaB family",Cluster_1
+1123,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],"K05641  ABCA1; ATP-binding cassette, subfamily A (ABC1), member 1",Cluster_1
+1125,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],"K05643  ABCA3; ATP-binding cassette, subfamily A (ABC1), member 3",Cluster_1
+1131,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],"K05665  ABCC1; ATP-binding cassette, subfamily C (CFTR/MRP), member 1 [EC:7.6.2.3]",Cluster_1
+1136,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],"K05673  ABCC4; ATP-binding cassette, subfamily C (CFTR/MRP), member 4",Cluster_1
+1139,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],"K05677  ABCD3, PMP70; ATP-binding cassette, subfamily D (ALD), member 3 [EC:7.6.2.4]",Cluster_1
+1178,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],K05777  ynjB; putative thiamine transport system substrate-binding protein,Cluster_1
+1179,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],K05778  ynjC; putative thiamine transport system permease protein,Cluster_1
+1180,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],K05779  ynjD; putative thiamine transport system ATP-binding protein,Cluster_1
+1206,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],"K05863  SLC25A4S, ANT; solute carrier family 25 (mitochondrial adenine nucleotide translocator), member 4/5/6/31",Cluster_1
+1295,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],"K06895  lysE, argO; L-lysine exporter family protein LysE/ArgO",Cluster_1
+1472,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],"K08226  pucC; MFS transporter, BCD family, chlorophyll transporter",Cluster_1
+1507,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],K08714  VGSC; voltage-gated sodium channel,Cluster_1
+1510,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],K08720  ompU; outer membrane protein OmpU,Cluster_1
+1650,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],K10022  aotJ; arginine/ornithine transport system substrate-binding protein,Cluster_1
+1652,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],K10023  aotM; arginine/ornithine transport system permease protein,Cluster_1
+1654,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],K10024  aotQ; arginine/ornithine transport system permease protein,Cluster_1
+1656,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],K10025  aotP; arginine/ornithine transport system ATP-binding protein [EC:7.4.2.1],Cluster_1
+1658,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],K10235  aglK; alpha-glucoside transport system ATP-binding protein,Cluster_1
+1768,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],K11250  leuE; leucine efflux protein,Cluster_1
+1824,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],K11604  sitA; manganese/iron transport system substrate-binding protein,Cluster_1
+1826,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],K11605  sitC; manganese/iron transport system permease protein,Cluster_1
+1828,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],K11606  sitD; manganese/iron transport system permease protein,Cluster_1
+1830,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],K11607  sitB; manganese/iron transport system ATP-binding protein,Cluster_1
+1845,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],K11955  natC; neutral amino acid transport system permease protein,Cluster_1
+1878,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],"K12537  hasE, prtE, rsaE, prsE, eexE; membrane fusion protein, type I secretion system",Cluster_1
+1880,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],"K12538  hasF, prtF; outer membrane protein, type I secretion system",Cluster_1
+2004,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],"K14640  SLC20A, PIT; solute carrier family 20 (sodium-dependent phosphate transporter)",Cluster_1
+2005,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],"K14684  SLC25A23S; solute carrier family 25 (mitochondrial phosphate transporter), member 23/24/25/41",Cluster_1
+2006,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],"K14724  SLC9A8, NHE8; solute carrier family 9 (sodium/hydrogen exchanger), member 8",Cluster_1
+2030,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],"K15102  SLC25A3, PHC, PIC; solute carrier family 25 (mitochondrial phosphate transporter), member 3",Cluster_1
+2032,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],"K15104  SLC25A11, OGC; solute carrier family 25 (mitochondrial oxoglutarate transporter), member 11",Cluster_1
+2034,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],"K15109  SLC25A20_29, CACT, CACL, CRC1; solute carrier family 25 (mitochondrial carnitine/acylcarnitine transporter), member 20/29",Cluster_1
+2042,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],"K15377  SLC44A2_4_5; solute carrier family 44 (choline transporter-like protein), member 2/4/5",Cluster_1
+2055,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],K16091  fecA; Fe(3+) dicitrate transport protein,Cluster_1
+2062,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],K16302  CNNM; metal transporter CNNM,Cluster_1
+2102,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],"K17938  sbmA, bacA; peptide/bleomycin uptake transporter",Cluster_1
+84,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],K01615  gcdA; glutaconyl-CoA decarboxylase subunit alpha [EC:7.2.4.5],Cluster_2
+134,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],"K02773  gatA, sgcA; galactitol PTS system EIIA component [EC:2.7.1.200]",Cluster_2
+137,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],"K02774  gatB, sgcB; galactitol PTS system EIIB component [EC:2.7.1.200]",Cluster_2
+140,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],"K02775  gatC, sgcC; galactitol PTS system EIIC component",Cluster_2
+141,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],"K02824  uraA, pyrP; uracil permease",Cluster_2
+282,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],"K03475  ulaA, sgaT; ascorbate PTS system EIIC component",Cluster_2
+285,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],"K03532  torC; trimethylamine-N-oxide reductase (cytochrome c), cytochrome c-type subunit TorC",Cluster_2
+413,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],K07307  dmsB; anaerobic dimethyl sulfoxide reductase subunit B,Cluster_2
+415,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],K07308  dmsC; anaerobic dimethyl sulfoxide reductase subunit C,Cluster_2
+489,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],"K08352  phsA, psrA; thiosulfate reductase / polysulfide reductase chain A [EC:1.8.5.5]",Cluster_2
+491,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],K08354  phsC; thiosulfate reductase cytochrome b subunit,Cluster_2
+494,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],K08358  ttrB; tetrathionate reductase subunit B,Cluster_2
+551,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],K10542  mglA; methyl-galactoside transport system ATP-binding protein [EC:7.5.2.11],Cluster_2
+562,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],K11050  cylA; multidrug/hemolysin transport system ATP-binding protein,Cluster_2
+572,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],K11249  eamB; cysteine/O-acetylserine efflux protein,Cluster_2
+586,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],"K12306  MSFD7, SLC49A4; MFS transporter, FLVCR family, MFS-domain-containing protein 7",Cluster_2
+632,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],K15497  wtpC; molybdate/tungstate transport system ATP-binding protein [EC:7.3.2.5 7.3.2.6],Cluster_2
+649,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],"K16210  togT, rhiT; oligogalacturonide transporter",Cluster_2
+661,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],"K16331  ylnA, cysP; sulfate permease",Cluster_2
+662,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],K16788  niaX; niacin transporter,Cluster_2
+663,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],K16789  thiT; thiamine transporter,Cluster_2
+671,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],K16905  K16905; fluoroquinolone transport system permease protein,Cluster_2
+673,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],K16906  K16906; fluoroquinolone transport system permease protein,Cluster_2
+675,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],K16907  K16907; fluoroquinolone transport system ATP-binding protein [EC:7.6.2.-],Cluster_2
+677,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],K16915  cbiL; nickel transport protein,Cluster_2
+678,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],K16924  mtsT; energy-coupling factor transport system substrate-specific component,Cluster_2
+682,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],"K17050  serA, clrA; selenate/chlorate reductase subunit alpha [EC:1.97.1.9 1.97.1.1]",Cluster_2
+684,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],"K17051  serB, clrB; selenate/chlorate reductase subunit beta [EC:1.97.1.9 1.97.1.1]",Cluster_2
+752,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],K19540  frlA; fructoselysine transporter,Cluster_2
+753,ko00001,09180 Brite Hierarchies,09183 Protein families: signaling and cellular processes,02000 Transporters [BR:ko02000],"K19576  norA; MFS transporter, DHA1 family, quinolone resistance protein",Cluster_2
