@@ -6,10 +6,10 @@ Data processing and analysis code for the manuscript titled, "Metagenomic cluste
 * The `Data_analysis.ipynb` notebook contains all of the analysis and plotting code from the project. This includes basic dataset description, sample clustering, and marker gene analyses.
 * The `Taxonomy_analysis.ipynb` notebook looks at the taxonomic composition of the dataset metagenomes, pulling from the zip files in the data folder.
 ## Dependencies
-This repository requires the following python packages:
+This repository requires the following python packages be installed. Alternatively, a conda environment file is available `metagenome_clustering_env.yml`:
 * numpy
 * pandas
-* geopandas
+* geopandas 
 * anndata
 * scanpy
 * scipy
