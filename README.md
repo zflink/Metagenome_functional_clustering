@@ -5,3 +5,22 @@ Data processing and analysis code for the manuscript titled, "Metagenomic cluste
 * The `Data_preprocessing.ipynb` notebook contains code to filter and normalize the raw dataset. This includes operations like removing samples below a certain sequencing depth and ensuring all samples went through the JGI annotation pipeline. In addition it performs the data matrix normalization that is based off of the [ALDEx2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4030730/) methodology.
 * The `Data_analysis.ipynb` notebook contains all of the analysis and plotting code from the project. This includes basic dataset description, sample clustering, and marker gene analyses.
 * The `Taxonomy_analysis.ipynb` notebook looks at the taxonomic composition of the dataset metagenomes, pulling from the zip files in the data folder.
+## Dependencies
+This repository requires on the following python packages:
+* numpy
+* pandas
+* geopandas
+* anndata
+* scanpy
+* scipy
+* scikit_posthocs
+* skbio
+* sklearn
+* collections
+* random
+* json
+* os
+* glob
+* matplotlib
+* seaborn
+* plotly
