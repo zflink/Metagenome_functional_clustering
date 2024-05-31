@@ -6,21 +6,21 @@ Data processing and analysis code for the manuscript titled, "Metagenomic cluste
 * The `Data_analysis.ipynb` notebook contains all of the analysis and plotting code from the project. This includes basic dataset description, sample clustering, and marker gene analyses.
 * The `Taxonomy_analysis.ipynb` notebook looks at the taxonomic composition of the dataset metagenomes, pulling from the zip files in the data folder.
 ## Dependencies
-This repository requires the following python packages be installed. Alternatively, a conda environment file is available (`metagenome_clustering_env.yml`):
-* numpy
-* pandas
-* geopandas 
-* anndata
-* scanpy
-* scipy
-* scikit_posthocs
-* skbio
-* sklearn
-* collections
-* random
-* json
-* os
-* glob
-* matplotlib
-* seaborn
-* plotly
+This repository was created and run using python (3.6.10) and makes use of the following packages and versions:
+* numpy (1.19.5)
+* pandas (1.1.5)
+* geopandas (0.6.1)
+* anndata (0.7.6)
+* scanpy (1.7.2)
+* scipy (1.5.4)
+* scikit-posthocs (0.7.0)
+* scikit-bio (0.5.6)
+* scikit-learn (0.24.2)
+* matplotlib (3.3.4)
+* seaborn (0.11.1)
+* plotly (5.3.1)
+* collections (python standard library)
+* random (python standard library)
+* json (python standard library)
+* os (python standard library)
+* glob (python standard library)
